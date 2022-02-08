@@ -9,5 +9,7 @@ namespace Backend_Practice.Models
     {
         public int Empid { get; set; }
         public string name { get; set; }
+
+        public int salary { get; set; }
     }
 }

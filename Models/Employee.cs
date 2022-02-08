@@ -7,7 +7,7 @@ namespace Backend_Practice.Models
 {
     public class Employee
     {
-        public int Employeeid { get; set; }
+        public int eid { get; set; }
         public string name { get; set; }
 
         public int salary { get; set; }

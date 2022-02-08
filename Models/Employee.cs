@@ -10,6 +10,8 @@ namespace Backend_Practice.Models
         public int eid { get; set; }
         public string name { get; set; }
 
+        public string Address { get; set; }
+
         public int salary { get; set; }
 
         public string Designation { get; set; }

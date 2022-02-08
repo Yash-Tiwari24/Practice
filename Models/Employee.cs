@@ -11,5 +11,8 @@ namespace Backend_Practice.Models
         public string name { get; set; }
 
         public int salary { get; set; }
+
+        public string Designation { get; set; }
+
     }
 }
